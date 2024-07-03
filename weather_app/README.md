@@ -1,16 +1,4 @@
-# weather_app
+# Weather_App
+This is a basic weather app which fetches the weather information from the OpenWeatherAPI and displays it in a user-friendly interface. Users can enter a city name to get current weather details including temperature, weather description, humidity, and wind speed. 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Frame 245 (1)](https://github.com/ishitajasuja/Weather_App/assets/136382271/0ecfe80a-013e-4f5f-a84d-7daac2501493)
